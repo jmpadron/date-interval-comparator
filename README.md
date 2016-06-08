@@ -18,6 +18,11 @@ A small library that compares two date intervals. Dates should follow the RFC282
 
 	npm test
 
+## Repo URL
+	
+	https://github.com/jmpadron/date-interval-comparator.git	
+
 ## Release History
 
   	0.1.0 Initial release
+  	0.1.6 Adding GitHub Repo
